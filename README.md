@@ -19,11 +19,11 @@
 ## <img width="4%" title="My projects" src="attachments/images/browser.png"> Мои проекты
 
 <p align="center">
-    <a href="https://github.com/penolegrus/threadqa-kafka-tests"><img width=45% title="Интеграционные тесты для кафка приложений с использованием Docker контейнеров" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=penolegrus&repo=threadqa-kafka-tests&show_owner=true&theme=highcontrast"></a>
-    <a href="https://github.com/penolegrus/QA_WebSocket"><img width=45% title="Тесты WebSocket приложения" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=penolegrus&repo=QA_WebSocket&show_owner=true&theme=highcontrast"></a>
-    <a href="https://github.com/penolegrus/Youtube-qa-project"><img width=45% title="UI и API автотесты на различные веб приложения" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=penolegrus&repo=Youtube-qa-project&show_owner=true&theme=highcontrast"></a>
-    <a href="https://github.com/penolegrus/MobileAppium"><img width=45% title="Мобильные тесты Appium" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=penolegrus&repo=MobileAppium&show_owner=true&theme=highcontrast"></a>
-    <a href="https://github.com/penolegrus/SpringBackEndDemo"><img width=45% title="Микросервисное приложения с интеграционными API тестами" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=penolegrus&repo=SpringBackEndDemo&show_owner=true&theme=highcontrast"></a>
+    <a href="https://github.com/penolegrus/threadqa-kafka-tests"><img width=45% title="Интеграционные тесты для кафка приложений с использованием Docker контейнеров" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=penolegrus&repo=threadqa-kafka-tests&show_owner=true&theme=buefy"></a>
+    <a href="https://github.com/penolegrus/QA_WebSocket"><img width=45% title="Тесты WebSocket приложения" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=penolegrus&repo=QA_WebSocket&show_owner=true&theme=buefy"></a>
+    <a href="https://github.com/penolegrus/Youtube-qa-project"><img width=45% title="UI и API автотесты на различные веб приложения" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=penolegrus&repo=Youtube-qa-project&show_owner=true&theme=buefy"></a>
+    <a href="https://github.com/penolegrus/MobileAppium"><img width=45% title="Мобильные тесты Appium" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=penolegrus&repo=MobileAppium&show_owner=true&theme=buefy"></a>
+    <a href="https://github.com/penolegrus/SpringBackEndDemo"><img width=45% title="Микросервисное приложения с интеграционными API тестами" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=penolegrus&repo=SpringBackEndDemo&show_owner=true&theme=buefy"></a>
 </p>
 
 <p align="right">
