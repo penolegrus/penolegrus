@@ -1,5 +1,5 @@
 <p align="center">
-    <img title="Hi!" src="attachments/gif/animation.gif">
+    <img title="Hi!" src="attachments/gif/header.gif">
 </p>
 
 # <img width="5%" title="About me" src="attachments/images/chat.png"> Немного о себе
@@ -68,7 +68,7 @@
     <a href="https://www.linkedin.com/in/oleg-pendrak-1bb081163/"><img width=5% title="LinkedIn" src="attachments/logo/linkedin.png"></a>&nbsp;
     <a href="https://career.habr.com/penolegrus"><img width=5% title="Habr Career" src="attachments/logo/habr.svg"></a>
     <a href="https://www.youtube.com/@threadqa"><img width=5% title="Youtube Channel" src="attachments/logo/youtube.png"></a>
-    <a href="https://t.me/threadqa"><img width=5% title="Telegram QA Chat" src="attachments/logo/threadqa.png"></a>
+    <a href="https://t.me/threadqa"><img width=5% title="Telegram QA Chat" src="attachments/logo/threadqa.jpg"></a>
 </p>
 
 <br/>
