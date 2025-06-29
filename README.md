@@ -9,7 +9,7 @@
 ### _Я — QA Engineer_ <img width="3%" src="attachments/images/bug.png">
 
 <p align="left">
-Имею более 3 лет опыта в тестировании UI/API/Mobile. Регулярно изучаю новые технологии и инструменты в сфере тестирования. Веду YouTube канал https://www.youtube.com/@threadqa
+Имею более 5 лет опыта в тестировании UI/API/Mobile. Регулярно изучаю новые технологии и инструменты в сфере тестирования. Веду YouTube канал https://www.youtube.com/@threadqa
 
 В данное время работаю в VK и пишу в основном на Java
 </p>
