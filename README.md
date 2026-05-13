@@ -1,17 +1,22 @@
 <div align="center">
+  <img src="attachments/gif/header.gif" width="100%"/>
+  
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     Олег Пендрак | ThreadQA
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
+  <h3>Tech Lead QA Automation | ex-Ozon, VK, Sber Health</h3>
+  
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com/?color=7e06ff&font=montserrat-medium&size=25&center=true&vCenter=true&lines=Lead+QA+Automation+Engineer;YouTube+Creator+%40threadqa;Educational+Platform+Founder;450%2B+Students+Trained;5%2B+Years+Experience;Conference+Speaker;Mentor+%26+Consultant">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=7e06ff&font=montserrat-medium&size=25&center=true&vCenter=true&lines=Lead+QA+Automation+Engineer;YouTube+Creator+%40threadqa;Founder+lms.threadqa.ru;450%2B+Students+Trained;Conference+Speaker+(Heisenbug,+UDW);Mentor+%26+Consultant">
   </p>
   
   [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCL8ZVHWNBkXbdxfiFXH7krw?label=YouTube%20%40threadqa&style=for-the-badge&logo=youtube&color=ff0000)](https://www.youtube.com/@threadqa)
   [![Telegram Community](https://img.shields.io/badge/Telegram-ThreadQA-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/threadqa)
-  [![Website](https://img.shields.io/badge/Website-threadqa.ru-7e06ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://threadqa.ru/)
+  [![Website](https://img.shields.io/badge/Website-threadqa.ru-7e06ff?style=for-the-badge&logo=google-chrome&logoColor=white)](http://threadqa.ru/)
+  [![LMS Platform](https://img.shields.io/badge/LMS-lms.threadqa.ru-00C853?style=for-the-badge&logo=google-classroom&logoColor=white)](https://lms.threadqa.ru/)
 </div>
 
 ---
@@ -21,14 +26,14 @@
 <img align="right" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF">
 
 ### 👨‍💻 **Кто я**
-- **Lead QA Automation Engineer** с 5+ годами опыта
-- **Создатель образовательной платформы** [ThreadQA](https://lms.threadqa.ru/) 
+- **Tech Lead QA Automation** с 5+ годами опыта (ex-Ozon, VK, Sber Health)
+- **Создатель образовательной платформы** [ThreadQA LMS](https://lms.threadqa.ru/)
 - **YouTube-блогер** с 10K+ подписчиков [@threadqa](https://www.youtube.com/@threadqa)
-- **Спикер** на крупнейших IT-конференциях России (Heisenbug, Ural Digital Weekend)
-- **Ментор** и консультант - обучил **450+ специалистов**
+- **Спикер** на крупнейших IT-конференциях (Heisenbug, Ural Digital Weekend)
+- **Ментор** и консультант — обучил **450+ специалистов**
 
 ### 🎯 **Моя миссия**
-Делиться реальными знаниями и практическим опытом в области автоматизации тестирования. Каждый курс и материал основан на опыте работы с крупными проектами в ведущих IT-компаниях России (VK, Ozon).
+Делиться реальными знаниями и практическим опытом в области автоматизации тестирования. Каждый курс и материал основан на опыте работы с крупными проектами в ведущих IT-компаниях России.
 
 ### 🔥 **Экспертиза**
 - Автоматизация тестирования API, UI и мобильных приложений
@@ -36,6 +41,189 @@
 - Разработка фреймворков для автоматизации тестирования
 - Управление командами QA и техническое лидерство
 - Более 200 успешных консультаций по карьере
+
+---
+
+## 🎓 Образовательная платформа ThreadQA
+
+<div align="center">
+
+> **Всё для старта и роста в QA Automation — от курсов до оффера**
+>
+> [![Перейти на платформу](https://img.shields.io/badge/🚀_Перейти_на_платформу-lms.threadqa.ru-7e06ff?style=for-the-badge&logoColor=white)](https://lms.threadqa.ru/)
+> [![Личный сайт](https://img.shields.io/badge/🌐_Личный_сайт-threadqa.ru-2CA5E0?style=for-the-badge&logoColor=white)](http://threadqa.ru/)
+
+</div>
+
+### 📚 Курсы по автоматизации тестирования
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**☕ Java QA Automation**
+<br><br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<br><br>
+📖 90 уроков · ⏱ 40 часов
+<br>
+Java Core, ООП, JUnit 5, TestNG, Selenium, Selenide, REST Assured, Allure, Docker, GitLab CI/CD
+<br><br>
+[![Подробнее](https://img.shields.io/badge/Подробнее-7e06ff?style=for-the-badge)](https://lms.threadqa.ru/courselanding/java)
+
+</td>
+<td width="33%" align="center">
+
+**🐍 Python QA Automation**
+<br><br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<br><br>
+📖 46 уроков · ⏱ 17 часов
+<br>
+Python, pytest, Selenium, Playwright, requests, Docker, GitLab CI/CD
+<br><br>
+[![Подробнее](https://img.shields.io/badge/Подробнее-7e06ff?style=for-the-badge)](https://lms.threadqa.ru/courselanding/python)
+
+</td>
+<td width="33%" align="center">
+
+**🍎 iOS QA Automation**
+<br><br>
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white)
+<br><br>
+📖 40 уроков · ⏱ 8 часов
+<br>
+Swift, XCTest, XCUITest, Fastlane, CI/CD, симуляторы
+<br><br>
+[![Подробнее](https://img.shields.io/badge/Подробнее-7e06ff?style=for-the-badge)](https://lms.threadqa.ru/courselanding/ios)
+
+</td>
+</tr>
+</table>
+
+<p>
+  <a href="https://lms.threadqa.ru/courselanding">
+    <img src="https://img.shields.io/badge/📚_Все_курсы-lms.threadqa.ru/courselanding-00C853?style=for-the-badge">
+  </a>
+</p>
+
+</div>
+
+### 🎯 Мок-собеседования
+
+<div align="center">
+
+> Тренировочные технические собеседования с **Senior QA менторами** из Яндекс, Сбер, VK.
+> Видеозвонок 45–60 мин, запись интервью, детальный отчёт и персональный план роста.
+
+<table>
+<tr>
+<td align="center">
+
+**1 собеседование**
+<br>
+3 000 ₽
+
+</td>
+<td align="center">
+
+**2 собеседования**
+<br>
+5 000 ₽ *(2 500 ₽/шт)*
+
+</td>
+<td align="center">
+
+**3 собеседования** ⭐
+<br>
+7 000 ₽ *(2 333 ₽/шт)*
+
+</td>
+</tr>
+</table>
+
+> Темы: теория тестирования, SQL, API, автоматизация, инструменты, soft skills
+
+<p>
+  <a href="https://lms.threadqa.ru/mockinterviews">
+    <img src="https://img.shields.io/badge/🎯_Записаться_на_мок--собеседование-FF6C37?style=for-the-badge">
+  </a>
+</p>
+
+</div>
+
+### 🎥 Записи реальных собеседований
+
+<div align="center">
+
+> **50+ записей** реальных собеседований QA инженеров из **Яндекс, Сбер, VK** в HD-качестве.
+> Таймкоды, live coding сессии, разбор от экспертов. Уровни: Junior, Middle, Senior.
+
+<table>
+<tr>
+<td align="center">
+
+**3 месяца**
+<br>
+4 500 ₽
+
+</td>
+<td align="center">
+
+**6 месяцев** ⭐
+<br>
+7 000 ₽ *(-22%)*
+
+</td>
+<td align="center">
+
+**12 месяцев**
+<br>
+13 000 ₽ *(-28%)*
+
+</td>
+</tr>
+</table>
+
+<p>
+  <a href="https://lms.threadqa.ru/records">
+    <img src="https://img.shields.io/badge/🎥_Смотреть_записи_собеседований-DC382D?style=for-the-badge">
+  </a>
+</p>
+
+</div>
+
+### 🏋️ QA Bootcamp — интенсив на 12 недель
+
+<div align="center">
+
+> Интенсивный буткемп по QA Automation с **живым ментором**.
+> Живые занятия 2–3 раза в неделю, code review каждой домашней работы,
+> 3 мок-собеседования, помощь с резюме и LinkedIn, карьерная поддержка.
+
+**Включено:**
+
+| | |
+|---|---|
+| 🎓 Живые занятия в группе | 📝 Code review каждого ДЗ |
+| 🎯 3 мок-собеседования | 💼 Помощь с резюме и LinkedIn |
+| 🚀 Практика на реальном проекте | 🤝 Карьерная поддержка до оффера |
+
+<p>
+  <a href="https://lms.threadqa.ru/qabootcamp">
+    <img src="https://img.shields.io/badge/🏋️_Записаться_в_буткемп-7e06ff?style=for-the-badge">
+  </a>
+</p>
+
+</div>
 
 ---
 
@@ -53,6 +241,7 @@
 ### Testing Tools
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Selenide](https://img.shields.io/badge/Selenide-00C853?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-672CBE?style=for-the-badge&logo=appium&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST_Assured-FF6C37?style=for-the-badge)
 ![TestNG](https://img.shields.io/badge/TestNG-DC382D?style=for-the-badge)
@@ -134,7 +323,7 @@
 
 </details>
 
-<p align="center">
+<p>
     <a href="https://github.com/penolegrus?tab=repositories&sort=stargazers">
         <img src="https://img.shields.io/badge/-Все%20репозитории-7e06ff?style=for-the-badge&logoColor=white&logo=github">
     </a>
@@ -153,23 +342,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=penolegrus&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🎬 Образовательный контент
-
-<div align="center">
-
-### 📺 YouTube Channel [@threadqa](https://www.youtube.com/@threadqa)
-> 10K+ подписчиков | Практические туториалы по автоматизации тестирования
-
-### 📚 Образовательная платформа [ThreadQA](https://lms.threadqa.ru/)
-> 450+ выпускников | Курсы от практикующего эксперта
-
-### 💬 Telegram сообщество [@threadqa](https://t.me/threadqa)
-> Ежедневная поддержка и обмен опытом
-
 </div>
 
 ---
@@ -278,13 +450,14 @@
 [![Habr Career](https://img.shields.io/badge/Habr_Career-penolegrus-65A3BE?style=for-the-badge&logo=habr)](https://career.habr.com/penolegrus)
 [![YouTube](https://img.shields.io/badge/YouTube-@threadqa-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@threadqa)
 [![ThreadQA Chat](https://img.shields.io/badge/ThreadQA_Chat-Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/threadqa)
+[![ThreadQA Platform](https://img.shields.io/badge/ThreadQA_Platform-lms.threadqa.ru-7e06ff?style=for-the-badge&logo=google-classroom&logoColor=white)](https://lms.threadqa.ru/)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=7e06ff&font=montserrat-medium&size=18&center=true&vCenter=true&lines=QA+One+Love+💜;Автоматизируем+будущее+вместе!;Качество+превыше+всего+✨">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7e06ff&font=montserrat-medium&size=18&center=true&vCenter=true&lines=QA+One+Love+💜;Автоматизируем+будущее+вместе!;Качество+превыше+всего+✨;threadqa.ru+—+присоединяйся!">
 </div>
 
 <div align="center">
