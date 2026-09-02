@@ -130,22 +130,10 @@ Swift, XCTest, XCUITest, Fastlane, CI/CD, симуляторы
 
 **1 собеседование**
 <br>
-3 000 ₽
+5 000 ₽
 
 </td>
 <td align="center">
-
-**2 собеседования**
-<br>
-5 000 ₽ *(2 500 ₽/шт)*
-
-</td>
-<td align="center">
-
-**3 собеседования** ⭐
-<br>
-7 000 ₽ *(2 333 ₽/шт)*
-
 </td>
 </tr>
 </table>
@@ -155,71 +143,6 @@ Swift, XCTest, XCUITest, Fastlane, CI/CD, симуляторы
 <p>
   <a href="https://lms.threadqa.ru/mockinterviews">
     <img src="https://img.shields.io/badge/🎯_Записаться_на_мок--собеседование-FF6C37?style=for-the-badge">
-  </a>
-</p>
-
-</div>
-
-### 🎥 Записи реальных собеседований
-
-<div align="center">
-
-> **50+ записей** реальных собеседований QA инженеров из **Яндекс, Сбер, VK** в HD-качестве.
-> Таймкоды, live coding сессии, разбор от экспертов. Уровни: Junior, Middle, Senior.
-
-<table>
-<tr>
-<td align="center">
-
-**3 месяца**
-<br>
-4 500 ₽
-
-</td>
-<td align="center">
-
-**6 месяцев** ⭐
-<br>
-7 000 ₽ *(-22%)*
-
-</td>
-<td align="center">
-
-**12 месяцев**
-<br>
-13 000 ₽ *(-28%)*
-
-</td>
-</tr>
-</table>
-
-<p>
-  <a href="https://lms.threadqa.ru/records">
-    <img src="https://img.shields.io/badge/🎥_Смотреть_записи_собеседований-DC382D?style=for-the-badge">
-  </a>
-</p>
-
-</div>
-
-### 🏋️ QA Bootcamp — интенсив на 12 недель
-
-<div align="center">
-
-> Интенсивный буткемп по QA Automation с **живым ментором**.
-> Живые занятия 2–3 раза в неделю, code review каждой домашней работы,
-> 3 мок-собеседования, помощь с резюме и LinkedIn, карьерная поддержка.
-
-**Включено:**
-
-| | |
-|---|---|
-| 🎓 Живые занятия в группе | 📝 Code review каждого ДЗ |
-| 🎯 3 мок-собеседования | 💼 Помощь с резюме и LinkedIn |
-| 🚀 Практика на реальном проекте | 🤝 Карьерная поддержка до оффера |
-
-<p>
-  <a href="https://lms.threadqa.ru/qabootcamp">
-    <img src="https://img.shields.io/badge/🏋️_Записаться_в_буткемп-7e06ff?style=for-the-badge">
   </a>
 </p>
 
