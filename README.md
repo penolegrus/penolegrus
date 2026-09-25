@@ -1,15 +1,15 @@
 <!-- ═══════════════════════════════ HEADER ═══════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7e06ff,50:a855f7,100:2CA5E0&height=260&section=header&text=Олег%20Пендрак&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Tech%20Lead%20QA%20Automation%20·%20ThreadQA&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7e06ff,50:a855f7,100:2CA5E0&height=230&section=header&text=Oleg%20Pendrak&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Tech%20Lead%20QA%20Automation%20%E2%80%A2%20ThreadQA&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://lms.threadqa.ru/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=assertThat(bugs).isEmpty();+%F0%9F%A7%AA;Lead+QA+Automation+Engineer;ex-Ozon+%C2%B7+VK+%C2%B7+Sber+Health;450%2B+%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%BE;Speaker+%40+Heisenbug+%26+UDW" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=Lead+QA+Automation+Engineer;ex-Ozon+%C2%B7+VK+%C2%B7+Sber+Health;450%2B+%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%BE;Speaker+%40+Heisenbug+%26+UDW" alt="typing"/>
 </a>
 
 <br/>
 
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCL8ZVHWNBkXbdxfiFXH7krw?label=YouTube&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&labelColor=0d1117)](https://www.youtube.com/@threadqa)
+[![YouTube](https://img.shields.io/badge/YouTube-10K%2B_subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://www.youtube.com/@threadqa)
 [![Telegram](https://img.shields.io/badge/Telegram-ThreadQA-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/threadqa)
 [![LMS](https://img.shields.io/badge/LMS-lms.threadqa.ru-00C853?style=for-the-badge&logo=googleclassroom&logoColor=white&labelColor=0d1117)](https://lms.threadqa.ru/)
 [![Site](https://img.shields.io/badge/Site-threadqa.ru-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](http://threadqa.ru/)
