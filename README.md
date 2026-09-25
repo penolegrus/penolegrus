@@ -1,388 +1,270 @@
-<div align="center">
-  <img src="attachments/gif/header.gif" width="100%"/>
-  
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    Олег Пендрак | ThreadQA
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  
-  <h3>Tech Lead QA Automation | ex-Ozon, VK, Sber Health</h3>
-  
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com/?color=7e06ff&font=montserrat-medium&size=25&center=true&vCenter=true&lines=Lead+QA+Automation+Engineer;YouTube+Creator+%40threadqa;Founder+lms.threadqa.ru;450%2B+Students+Trained;Conference+Speaker+(Heisenbug,+UDW);Mentor+%26+Consultant">
-  </p>
-  
-  [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCL8ZVHWNBkXbdxfiFXH7krw?label=YouTube%20%40threadqa&style=for-the-badge&logo=youtube&color=ff0000)](https://www.youtube.com/@threadqa)
-  [![Telegram Community](https://img.shields.io/badge/Telegram-ThreadQA-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/threadqa)
-  [![Website](https://img.shields.io/badge/Website-threadqa.ru-7e06ff?style=for-the-badge&logo=google-chrome&logoColor=white)](http://threadqa.ru/)
-  [![LMS Platform](https://img.shields.io/badge/LMS-lms.threadqa.ru-00C853?style=for-the-badge&logo=google-classroom&logoColor=white)](https://lms.threadqa.ru/)
-</div>
-
----
-
-## 🚀 О себе
-
-<img align="right" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF">
-
-### 👨‍💻 **Кто я**
-- **Tech Lead QA Automation** с 5+ годами опыта (ex-Ozon, VK, Sber Health)
-- **Создатель образовательной платформы** [ThreadQA LMS](https://lms.threadqa.ru/)
-- **YouTube-блогер** с 10K+ подписчиков [@threadqa](https://www.youtube.com/@threadqa)
-- **Спикер** на крупнейших IT-конференциях (Heisenbug, Ural Digital Weekend)
-- **Ментор** и консультант — обучил **450+ специалистов**
-
-### 🎯 **Моя миссия**
-Делиться реальными знаниями и практическим опытом в области автоматизации тестирования. Каждый курс и материал основан на опыте работы с крупными проектами в ведущих IT-компаниях России.
-
-### 🔥 **Экспертиза**
-- Автоматизация тестирования API, UI и мобильных приложений
-- Построение архитектуры автоматизации с нуля  
-- Разработка фреймворков для автоматизации тестирования
-- Управление командами QA и техническое лидерство
-- Более 200 успешных консультаций по карьере
-
----
-
-## 🎓 Образовательная платформа ThreadQA
-
+<!-- ═══════════════════════════════ HEADER ═══════════════════════════════ -->
 <div align="center">
 
-> **Всё для старта и роста в QA Automation — от курсов до оффера**
->
-> [![Перейти на платформу](https://img.shields.io/badge/🚀_Перейти_на_платформу-lms.threadqa.ru-7e06ff?style=for-the-badge&logoColor=white)](https://lms.threadqa.ru/)
-> [![Личный сайт](https://img.shields.io/badge/🌐_Личный_сайт-threadqa.ru-2CA5E0?style=for-the-badge&logoColor=white)](http://threadqa.ru/)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7e06ff,50:a855f7,100:2CA5E0&height=260&section=header&text=Олег%20Пендрак&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Tech%20Lead%20QA%20Automation%20·%20ThreadQA&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
+
+<a href="https://lms.threadqa.ru/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=assertThat(bugs).isEmpty();+%F0%9F%A7%AA;Lead+QA+Automation+Engineer;ex-Ozon+%C2%B7+VK+%C2%B7+Sber+Health;450%2B+%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%BE;Speaker+%40+Heisenbug+%26+UDW" alt="typing"/>
+</a>
+
+<br/>
+
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCL8ZVHWNBkXbdxfiFXH7krw?label=YouTube&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&labelColor=0d1117)](https://www.youtube.com/@threadqa)
+[![Telegram](https://img.shields.io/badge/Telegram-ThreadQA-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/threadqa)
+[![LMS](https://img.shields.io/badge/LMS-lms.threadqa.ru-00C853?style=for-the-badge&logo=googleclassroom&logoColor=white&labelColor=0d1117)](https://lms.threadqa.ru/)
+[![Site](https://img.shields.io/badge/Site-threadqa.ru-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](http://threadqa.ru/)
+[![Profile views](https://komarev.com/ghpvc/?username=penolegrus&label=Views&color=7e06ff&style=for-the-badge&labelColor=0d1117)](https://github.com/penolegrus)
 
 </div>
 
-### 📚 Курсы по автоматизации тестирования
+<br/>
 
+<!-- ═══════════════════════════════ NUMBERS ═══════════════════════════════ -->
 <div align="center">
 
 <table>
+  <tr>
+    <td align="center" width="170"><h2>5+</h2><sub>лет в QA Automation</sub></td>
+    <td align="center" width="170"><h2>450+</h2><sub>обученных специалистов</sub></td>
+    <td align="center" width="170"><h2>10K+</h2><sub>подписчиков на YouTube</sub></td>
+    <td align="center" width="170"><h2>200+</h2><sub>карьерных консультаций</sub></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🧪 `$ whoami`
+
+<table>
 <tr>
-<td width="33%" align="center">
+<td width="58%" valign="top">
 
-**☕ Java QA Automation**
-<br><br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-<br><br>
-📖 90 уроков · ⏱ 40 часов
-<br>
-Java Core, ООП, JUnit 5, TestNG, Selenium, Selenide, REST Assured, Allure, Docker, GitLab CI/CD
-<br><br>
-[![Подробнее](https://img.shields.io/badge/Подробнее-7e06ff?style=for-the-badge)](https://lms.threadqa.ru/courselanding/java)
+```java
+@DisplayName("Олег Пендрак — ThreadQA")
+class AboutMeTest {
+
+    Engineer me = Engineer.builder()
+        .role("Tech Lead QA Automation")
+        .experience("ex-Ozon, VK, Sber Health")
+        .founderOf("lms.threadqa.ru")
+        .youtube("@threadqa")
+        .speakerAt("Heisenbug", "Ural Digital Weekend")
+        .build();
+
+    @Test
+    void shouldShareRealExperience() {
+        assertThat(me.getStudents()).isGreaterThan(450);
+        assertThat(me.getExpertise()).contains(
+            "API", "UI", "Mobile", "gRPC", "Kafka",
+            "Test Architecture", "Team Leadership");
+    }
+
+    @Test
+    void shouldHelpYouGetAnOffer() {
+        assertThat(me.mentor(you)).isEqualTo(Offer.RECEIVED);
+    }
+}
+```
 
 </td>
-<td width="33%" align="center">
+<td width="42%" valign="top">
 
-**🐍 Python QA Automation**
-<br><br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-<br><br>
-📖 46 уроков · ⏱ 17 часов
-<br>
-Python, pytest, Selenium, Playwright, requests, Docker, GitLab CI/CD
-<br><br>
-[![Подробнее](https://img.shields.io/badge/Подробнее-7e06ff?style=for-the-badge)](https://lms.threadqa.ru/courselanding/python)
+### 🎯 Миссия
+Делиться реальными знаниями и практическим опытом в автоматизации тестирования. Каждый курс основан на работе с крупными проектами в ведущих IT-компаниях.
 
-</td>
-<td width="33%" align="center">
-
-**🍎 iOS QA Automation**
-<br><br>
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white)
-<br><br>
-📖 40 уроков · ⏱ 8 часов
-<br>
-Swift, XCTest, XCUITest, Fastlane, CI/CD, симуляторы
-<br><br>
-[![Подробнее](https://img.shields.io/badge/Подробнее-7e06ff?style=for-the-badge)](https://lms.threadqa.ru/courselanding/ios)
+### 🔥 Экспертиза
+- ⚙️ Автоматизация **API, UI и мобильных** приложений
+- 🏗️ Архитектура автоматизации **с нуля**
+- 🧰 Разработка **тестовых фреймворков**
+- 👥 Управление QA-командами и **техлидство**
+- 🧭 **200+** консультаций по карьере
 
 </td>
 </tr>
 </table>
 
-<p>
-  <a href="https://lms.threadqa.ru/courselanding">
-    <img src="https://img.shields.io/badge/📚_Все_курсы-lms.threadqa.ru/courselanding-00C853?style=for-the-badge">
-  </a>
-</p>
+---
 
-</div>
+## 🎓 ThreadQA — от первого теста до оффера
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<img src="https://skillicons.dev/icons?i=java" width="56"/>
+
+### Java QA Automation
+
+![lessons](https://img.shields.io/badge/📖_90_уроков-1f2937?style=flat-square) ![hours](https://img.shields.io/badge/⏱_40_часов-1f2937?style=flat-square)
+
+<sub>Java Core, ООП, JUnit 5, TestNG, Selenium, Selenide, REST Assured, Allure, Docker, GitLab CI/CD</sub>
+
+[![Подробнее](https://img.shields.io/badge/Подробнее_→-7e06ff?style=for-the-badge)](https://lms.threadqa.ru/courselanding/java)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="https://skillicons.dev/icons?i=python" width="56"/>
+
+### Python QA Automation
+
+![lessons](https://img.shields.io/badge/📖_46_уроков-1f2937?style=flat-square) ![hours](https://img.shields.io/badge/⏱_17_часов-1f2937?style=flat-square)
+
+<sub>Python, pytest, Selenium, Playwright, requests, Docker, GitLab CI/CD</sub>
+
+[![Подробнее](https://img.shields.io/badge/Подробнее_→-7e06ff?style=for-the-badge)](https://lms.threadqa.ru/courselanding/python)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="https://skillicons.dev/icons?i=swift" width="56"/>
+
+### iOS QA Automation
+
+![lessons](https://img.shields.io/badge/📖_40_уроков-1f2937?style=flat-square) ![hours](https://img.shields.io/badge/⏱_8_часов-1f2937?style=flat-square)
+
+<sub>Swift, XCTest, XCUITest, Fastlane, CI/CD, симуляторы</sub>
+
+[![Подробнее](https://img.shields.io/badge/Подробнее_→-7e06ff?style=for-the-badge)](https://lms.threadqa.ru/courselanding/ios)
+
+</td>
+</tr>
+<tr>
+<td colspan="3" align="center">
 
 ### 🎯 Мок-собеседования
+Тренировочные технические интервью с **Senior QA менторами** из Яндекс, Сбер, VK<br/>
+<sub>🎥 Видеозвонок 45–60 мин · 📼 Запись интервью · 📝 Детальный отчёт · 🗺️ Персональный план роста</sub><br/>
+<sub>Темы: теория тестирования, SQL, API, автоматизация, инструменты, soft skills</sub>
 
-<div align="center">
+[![Записаться](https://img.shields.io/badge/🎯_Записаться_·_5_000_₽-FF6C37?style=for-the-badge)](https://lms.threadqa.ru/mockinterviews)
+&nbsp;
+[![Все курсы](https://img.shields.io/badge/📚_Все_курсы-00C853?style=for-the-badge)](https://lms.threadqa.ru/courselanding)
 
-> Тренировочные технические собеседования с **Senior QA менторами** из Яндекс, Сбер, VK.
-> Видеозвонок 45–60 мин, запись интервью, детальный отчёт и персональный план роста.
-
-<table>
-<tr>
-<td align="center">
-
-**1 собеседование**
-<br>
-5 000 ₽
-
-</td>
-<td align="center">
 </td>
 </tr>
 </table>
-
-> Темы: теория тестирования, SQL, API, автоматизация, инструменты, soft skills
-
-<p>
-  <a href="https://lms.threadqa.ru/mockinterviews">
-    <img src="https://img.shields.io/badge/🎯_Записаться_на_мок--собеседование-FF6C37?style=for-the-badge">
-  </a>
-</p>
 
 </div>
 
 ---
 
-## 🛠️ Технологический стек
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,go,python,swift&theme=dark" />
 
-### Testing Tools
+**DevOps & CI/CD**<br/>
+<img src="https://skillicons.dev/icons?i=docker,jenkins,gitlab,githubactions,kafka,linux&theme=dark" />
+
+**Build & IDE**<br/>
+<img src="https://skillicons.dev/icons?i=gradle,maven,idea,postman&theme=dark" />
+
+**Testing**<br/>
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Selenide](https://img.shields.io/badge/Selenide-00C853?style=for-the-badge)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-672CBE?style=for-the-badge&logo=appium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662CBE?style=for-the-badge&logo=appium&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST_Assured-FF6C37?style=for-the-badge)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-DC382D?style=for-the-badge)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-
-### DevOps & CI/CD
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-FF7A00?style=for-the-badge)
 ![Selenoid](https://img.shields.io/badge/Selenoid-4B73C9?style=for-the-badge)
 
-### Build Tools & IDE
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
 </div>
 
 ---
 
-## 📂 Избранные проекты
+## 📂 Featured Projects
 
 <div align="center">
 
-### 🔥 Flagship Repositories
+<a href="https://github.com/penolegrus/e2e-playwright"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=penolegrus&repo=e2e-playwright&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=2CA5E0" alt="e2e-playwright"/></a>
+<a href="https://github.com/penolegrus/e2e-gRPC"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=penolegrus&repo=e2e-gRPC&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=2CA5E0" alt="e2e-gRPC"/></a>
+<a href="https://github.com/penolegrus/threadqa-kafka-tests"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=penolegrus&repo=threadqa-kafka-tests&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=2CA5E0" alt="threadqa-kafka-tests"/></a>
+<a href="https://github.com/penolegrus/e2e-soap"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=penolegrus&repo=e2e-soap&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=2CA5E0" alt="e2e-soap"/></a>
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-**🌐 End-to-End SOAP Testing**
-<br>
-[![e2e-soap](https://github-readme-stats.vercel.app/api/pin/?username=penolegrus&repo=e2e-soap&theme=tokyonight&show_owner=true)](https://github.com/penolegrus/e2e-soap)
-<br>
-*Комплексное тестирование SOAP веб-сервисов*
-
-</td>
-<td width="50%" align="center">
-
-**🎭 Playwright E2E Testing**
-<br>
-[![e2e-playwright](https://github-readme-stats.vercel.app/api/pin/?username=penolegrus&repo=e2e-playwright&theme=tokyonight&show_owner=true)](https://github.com/penolegrus/e2e-playwright)
-<br>
-*Современное E2E тестирование с Playwright*
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-**⚡ gRPC Testing Framework**
-<br>
-[![e2e-gRPC](https://github-readme-stats.vercel.app/api/pin/?username=penolegrus&repo=e2e-gRPC&theme=tokyonight&show_owner=true)](https://github.com/penolegrus/e2e-gRPC)
-<br>
-*Автоматизация тестирования gRPC сервисов*
-
-</td>
-<td width="50%" align="center">
-
-**📊 Kafka Integration Tests**
-<br>
-[![threadqa-kafka-tests](https://github-readme-stats.vercel.app/api/pin/?username=penolegrus&repo=threadqa-kafka-tests&theme=tokyonight&show_owner=true)](https://github.com/penolegrus/threadqa-kafka-tests)
-<br>
-*Интеграционные тесты для Kafka с Docker*
-
-</td>
-</tr>
-</table>
-
-### 📋 Additional Projects
+</div>
 
 <details>
-<summary><b>🔍 Показать все репозитории</b></summary>
+<summary><b>🔍 Ещё проекты</b></summary>
+<br/>
 
-- **🌐 [QA WebSocket Testing](https://github.com/penolegrus/QA_WebSocket)** - Тестирование WebSocket приложений
-- **📱 [Mobile Appium Testing](https://github.com/penolegrus/MobileAppium)** - Мобильные тесты с Appium  
-- **🎯 [YouTube QA Project](https://github.com/penolegrus/Youtube-qa-project)** - UI и API автотесты
-- **🔄 [Spring Backend Demo](https://github.com/penolegrus/SpringBackEndDemo)** - Микросервисы с API тестами
+| Проект | Описание |
+|:--|:--|
+| 🌐 [**QA_WebSocket**](https://github.com/penolegrus/QA_WebSocket) | Тестирование WebSocket-приложений |
+| 📱 [**MobileAppium**](https://github.com/penolegrus/MobileAppium) | Мобильные автотесты на Appium |
+| 🎯 [**Youtube-qa-project**](https://github.com/penolegrus/Youtube-qa-project) | UI и API автотесты |
+| 🔄 [**SpringBackEndDemo**](https://github.com/penolegrus/SpringBackEndDemo) | Микросервисы с API-тестами |
 
 </details>
 
-<p>
-    <a href="https://github.com/penolegrus?tab=repositories&sort=stargazers">
-        <img src="https://img.shields.io/badge/-Все%20репозитории-7e06ff?style=for-the-badge&logoColor=white&logo=github">
-    </a>
-</p>
-
-</div>
-
 ---
 
-## 📊 GitHub Аналитика
+## 🎤 Talks & Podcasts
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=penolegrus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=penolegrus&layout=compact&theme=tokyonight&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=penolegrus&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🎤 Публичные выступления
-
-<div align="center">
-
-### 🎯 Конференции и митапы
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-**🔥 Heisenbug 2023**
-<br>
-[![Heisenbug](https://img.shields.io/badge/🎬_Heisenbug-Автоматизация_инфраструктуры_с_ботами-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=MVrRW_K4k2Q)
-<br>
-*"Автоматизируем инфраструктуру с помощью ботов"*
-
-</td>
-<td width="50%" align="center">
-
-**🚀 Ural Digital Weekend**
-<br>
-[![Ural Digital](https://img.shields.io/badge/🎬_Ural_Digital-Создание_идеальных_фич-blue?style=for-the-badge&logo=vk)](https://vk.com/video-221305921_456239092?list=4a6bcf0748ed390722)
-<br>
-*"Создание идеальных фич без багов"*
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-**⚡ Work Solutions Meetup**
-<br>
-[![Work Solutions](https://img.shields.io/badge/🎬_Work_Solutions-Техническое_лидерство-purple?style=for-the-badge&logo=vk)](https://vk.com/wsdevs?z=video-164757456_456239042)
-<br>
-*"REST обертка для API тестирования "*
-
-</td>
-<td width="50%" align="center">
-
-**🎙️ Подкаст-Подкаст**
-<br>
-[![Подкаст-Подкаст](https://img.shields.io/badge/🎙️_Подкаст-ThreadQA_на_RuTube-orange?style=for-the-badge&logo=rutube)](https://rutube.ru/video/b0285320059c606bf52f679afbb436ce/)
-<br>
-*"Карьера и развитие в QA"*
-
-</td>
-</tr>
-</table>
-
-### 📊 Статистика выступлений
-
-| Конференция | Тема выступления | Дата | Платформа |
-|-------------|------------------|------|-----------|
-| **🔥 Heisenbug 2023** | Автоматизируем инфраструктуру с помощью ботов | Апр 2023 | YouTube |
-| **🚀 Ural Digital Weekend** | Создание идеальных фич без багов | 2024 | VK |
-| **⚡ Work Solutions Meetup** | REST обертка для API тестирования | 2024 | VK |
-| **🎙️ Подкаст Подкаст** | Карьера и развитие в автоматизации | 2025 | RuTube |
-
-</div>
-
----
-
-## 🎥 Популярные доклады
+| | Событие | Тема | Год | Смотреть |
+|:-:|:--|:--|:-:|:-:|
+| 🔥 | **Heisenbug** | Автоматизируем инфраструктуру с помощью ботов | 2023 | [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=MVrRW_K4k2Q) |
+| 🚀 | **Ural Digital Weekend** | Создание идеальных фич без багов | 2024 | [![VK](https://img.shields.io/badge/-VK_Video-0077FF?style=flat-square&logo=vk&logoColor=white)](https://vk.com/video-221305921_456239092?list=4a6bcf0748ed390722) |
+| ⚡ | **Work Solutions Meetup** | REST-обёртка для API-тестирования | 2024 | [![VK](https://img.shields.io/badge/-VK_Video-0077FF?style=flat-square&logo=vk&logoColor=white)](https://vk.com/wsdevs?z=video-164757456_456239042) |
+| 🎙️ | **Подкаст-Подкаст** | Карьера и развитие в автоматизации | 2025 | [![RuTube](https://img.shields.io/badge/-RuTube-1C1C1C?style=flat-square&logo=rutube&logoColor=white)](https://rutube.ru/video/b0285320059c606bf52f679afbb436ce/) |
 
 <details>
-<summary><b>🎬 Топ-выступления ThreadQA</b></summary>
+<summary><b>🎬 О чём доклады</b></summary>
+<br/>
 
-### 1. 🔥 **Heisenbug 2023: Автоматизация инфраструктуры**
-> **Смотреть:** [YouTube](https://www.youtube.com/watch?v=MVrRW_K4k2Q)
-> 
-> **О чём:** Рассказываю, как мы в команде автоматизировали весь процесс разработки с помощью ботов, устранили человеческий фактор и сократили время релизов.
->
-> **Ключевые темы:** Jira-боты, CI/CD автоматизация, Ruby для DevOps
-
-### 2. 🚀 **Ural Digital Weekend: Качество без компромиссов** 
-> **Смотреть:** [VK Video](https://vk.com/video-221305921_456239092?list=4a6bcf0748ed390722)
->
-> **О чём:** Делюсь секретами создания фич без багов и методами предотвращения дефектов на ранних стадиях разработки.
-
-### 3. ⚡ **Work Solutions: REST обертка для API тестирования**
-> **Смотреть:** [VK Video](https://vk.com/wsdevs?z=video-164757456_456239042) 
->
-> **О чём:** Рассказываю о том, как сделать классную обертку над Rest Assured, чтобы тесты были более гибкими и понятными.
-
-### 4. 🎙️ **Подкаст-Подкаст: Карьерные советы**
-> **Слушать:** [RuTube](https://rutube.ru/video/b0285320059c606bf52f679afbb436ce/)
->
-> **О чём:** Обсуждаем карьерные пути в QA, зарплатные вилки и soft skills для тестировщиков.
+- **Heisenbug 2023** — как мы автоматизировали процесс разработки с помощью ботов, убрали человеческий фактор и сократили время релизов. *Jira-боты, CI/CD, Ruby для DevOps.*
+- **Ural Digital Weekend** — секреты создания фич без багов и предотвращение дефектов на ранних стадиях.
+- **Work Solutions** — как сделать удобную обёртку над REST Assured, чтобы тесты стали гибче и понятнее.
+- **Подкаст-Подкаст** — карьерные пути в QA, зарплатные вилки и soft skills тестировщика.
 
 </details>
 
+---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=penolegrus&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=2CA5E0" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=penolegrus&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7" alt="langs"/>
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=penolegrus&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=2CA5E0&currStreakLabel=a855f7" alt="streak"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=penolegrus&bg_color=0d1117&color=a855f7&line=7e06ff&point=2CA5E0&area=true&area_color=7e06ff&hide_border=true" alt="activity graph"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/penolegrus/penolegrus/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/penolegrus/penolegrus/output/github-snake.svg"/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/penolegrus/penolegrus/output/github-snake-dark.svg"/>
+</picture>
+
+</div>
 
 ---
 
-## 🤝 Связаться со мной
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@penolegrus-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/penolegrus)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oleg_Pendrak-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/olegpendrak/)
-[![Habr Career](https://img.shields.io/badge/Habr_Career-penolegrus-65A3BE?style=for-the-badge&logo=habr)](https://career.habr.com/penolegrus)
-[![YouTube](https://img.shields.io/badge/YouTube-@threadqa-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@threadqa)
-[![ThreadQA Chat](https://img.shields.io/badge/ThreadQA_Chat-Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/threadqa)
-[![ThreadQA Platform](https://img.shields.io/badge/ThreadQA_Platform-lms.threadqa.ru-7e06ff?style=for-the-badge&logo=google-classroom&logoColor=white)](https://lms.threadqa.ru/)
+<a href="https://t.me/penolegrus"><img src="https://img.shields.io/badge/Telegram-@penolegrus-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://www.linkedin.com/in/olegpendrak/"><img src="https://img.shields.io/badge/LinkedIn-Oleg_Pendrak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://career.habr.com/penolegrus"><img src="https://img.shields.io/badge/Habr_Career-penolegrus-65A3BE?style=for-the-badge&logo=habr&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://www.youtube.com/@threadqa"><img src="https://img.shields.io/badge/YouTube-@threadqa-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://t.me/threadqa"><img src="https://img.shields.io/badge/Chat-ThreadQA-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://lms.threadqa.ru/"><img src="https://img.shields.io/badge/Platform-lms.threadqa.ru-7e06ff?style=for-the-badge&logo=googleclassroom&logoColor=white&labelColor=0d1117"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=QA+One+Love+%F0%9F%92%9C;%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B5%D0%BC+%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5+%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B5!;threadqa.ru+%E2%80%94+%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%8F%D0%B9%D1%81%D1%8F!" alt="footer typing"/>
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=7e06ff&font=montserrat-medium&size=18&center=true&vCenter=true&lines=QA+One+Love+💜;Автоматизируем+будущее+вместе!;Качество+превыше+всего+✨;threadqa.ru+—+присоединяйся!">
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=ThreadQA&fontSize=42&fontColor=white&animation=twinkling&fontAlign=50&fontAlignY=65">
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CA5E0,50:a855f7,100:7e06ff&height=140&section=footer&text=ThreadQA&fontSize=40&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%" alt="footer"/>
